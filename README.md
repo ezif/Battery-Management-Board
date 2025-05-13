@@ -1,0 +1,1 @@
+Zips Racing utilizes a custom battery managment system to monitor the battery cell voltages and temperatures of the vehicles accumulator (battery) for safety and rules compliance for the Formula Student racing competitions. The battery management system is based upon an STM32 microcontroller commumicating with twelve LTC6811s via isoSPI in a daisy chain network. 
